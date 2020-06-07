@@ -1,7 +1,0 @@
-Studying            Berlin                12.05.2007     Problems_with_future_generation                       678
-IT-future       Washington                17.09.2018                        Technologies                       317
-Business             Burno                12.03.2020                    Successful_start                       213
-Hotels               Paris                27.01.2018         How_to_satisfy_the_customer                       441
-Business            London                19.12.2019           How_to_attract_investment                       411
-Studying              Kyiv                30.06.2020    How_to_make_studying_interesting                       498
-Safety                Lviv                23.09.2019               How_to_save_your_life                       310
